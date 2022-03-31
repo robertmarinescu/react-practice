@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Gigi",
+      "number": "12345678",
+      "id": 5
+    },
+    {
+      "name": "Mihai",
+      "number": "82468712",
+      "id": 6
+    },
+    {
+      "name": "jrkef",
+      "number": "32432",
+      "id": 7
+    },
+    {
+      "name": "8302183",
+      "number": "costel",
+      "id": 8
+    }
+  ],
+  "names": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "Gigi",
+      "number": "123456",
+      "id": 5
+    }
+  ]
+}
